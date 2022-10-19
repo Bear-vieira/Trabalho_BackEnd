@@ -9,6 +9,8 @@ Este trabalho tem como principal objetivo o desenvolvimento de uma aplicação W
 Back-End completa. Sendo assim, inicialmente, cada grupo deverá se reunir e escolher o
 contexto de desenvolvimento da sua aplicação. Para isso, a concepção baseada em etapas
 será essencial para complementar as fases de desenvolvimento do trabalho.
+
+--------------------------------------------------------------------------------------------
 Instruções
 ● Cada grupo deverá definir uma aplicação Web Back a ser desenvolvida;
 ● A modelagem das entidades da aplicação deverá ser apresentada antes da
