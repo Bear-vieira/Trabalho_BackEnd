@@ -11,7 +11,7 @@ contexto de desenvolvimento da sua aplicação. Para isso, a concepção baseada
 será essencial para complementar as fases de desenvolvimento do trabalho.
 
 --------------------------------------------------------------------------------------------
-Instruções
+#Instruções
 
 
 ● Cada grupo deverá definir uma aplicação Web Back a ser desenvolvida;
@@ -38,13 +38,17 @@ simples);
 feitas via repositório Git.
 
 ---------------------------------------------------------------------------------------
-Planejamento das atividades e entregas
+
+#Planejamento das atividades e entregas
+
+
 Etapa 1
 Definição e proposta do projeto de desenvolvimento
 Modelagem das entidades
 Entrega: Pequeno relato sobre as funcionalidades da aplicação, seu objetivo e a
 modelagem das entidades
 ---------------------------------------------------------------------------------------
+
 Etapa 2
 Implementação das entidades/models da aplicação
 Entrega: Entrega do projeto(Maven) da aplicação com as entidades/models desenvolvidas
